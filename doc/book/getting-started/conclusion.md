@@ -11,7 +11,7 @@ The most important part of applications built with zend-mvc are the
 building blocks of any [zend-mvc application](https://zendframework.github.io/zend-mvc/quick-start/).
 
 To ease the work with dependencies inside our applications, we use the
-[service manager](https://zendframework.github.io/zend-servicemanager/intro/).
+[service manager](https://zendframework.github.io/zend-servicemanager/quick-start/).
 
 To be able to map a request to controllers and their actions, we use
 [routes](https://zendframework.github.io/zend-router/routing/).
